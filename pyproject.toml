@@ -29,8 +29,8 @@ classifiers = [
 ]
 
 [tool.poetry.dependencies]
-python = "^3.7"
-APScheduler = "^3.8.1"
+python = "^3.10"
+APScheduler = "4.0.0a4"
 rodi = "^2.0.0"
 
 [tool.poetry.group.dev.dependencies]
